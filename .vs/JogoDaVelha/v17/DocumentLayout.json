@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\douglas.gcribeiro\\source\\repos\\JogoDaVelha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3901446F-B945-4265-9EA2-962C059C141B}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\jogodavelha\\jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3901446F-B945-4265-9EA2-962C059C141B}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3901446F-B945-4265-9EA2-962C059C141B}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\jogodavelha\\jogodavelha\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3901446F-B945-4265-9EA2-962C059C141B}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3901446F-B945-4265-9EA2-962C059C141B}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\douglas.gcribeiro\\source\\repos\\jogodavelha\\jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3901446F-B945-4265-9EA2-962C059C141B}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs",
+              "RelativeDocumentMoniker": "JogoDaVelha\\Form1.cs",
+              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs",
+              "RelativeToolTip": "JogoDaVelha\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:48:48.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "JogoDaVelha\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Properties\\Resources.resx",
+              "RelativeToolTip": "JogoDaVelha\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-19T17:29:55.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\douglas.gcribeiro\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs",
+              "RelativeDocumentMoniker": "JogoDaVelha\\Form1.cs",
+              "ToolTip": "C:\\Users\\douglas.gcribeiro\\source\\repos\\JogoDaVelha\\JogoDaVelha\\Form1.cs [Design]",
+              "RelativeToolTip": "JogoDaVelha\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:14:26.075Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
